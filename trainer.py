@@ -1,7 +1,9 @@
+from brain import Brain
+
 from twitter import * # https://github.com/sixohsix/twitter
 
 import json
-from brain import Brain
+import os
 
 OAUTH_TOKEN = os.getenv('OAUTH_TOKEN')
 OAUTH_SECRET = os.getenv('OAUTH_SECRET')
