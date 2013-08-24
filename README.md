@@ -1,3 +1,13 @@
+Simularity
+======
+
+Project Goal:
+
+    1. Consume Twitter Sample Stream
+    2. Apply some AI/Magic
+    3. Create an algorithm + dataset that can predict similar hashtags based on 
+       hashtags the algo has seen before.
+
 Pre-Flight Checklist
 ======
 
