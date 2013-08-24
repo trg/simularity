@@ -61,3 +61,12 @@ Train
 
 To train the brain, run `python trainer.py`.  This will hit the twitter sample
 real time stream and begin inserting lists of hashtags into the brain.
+
+
+Test Suite
+======
+
+This app uses `nosetests` as the test suite bootstrapper.  To run the tests, run:
+
+    $ nosetests
+
