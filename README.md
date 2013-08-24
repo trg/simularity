@@ -69,7 +69,7 @@ Terminal Usage
 Right now there's no web service API, so to view the most "similar" hastag
 based on the consumed twitter data, run:
 
-    $ python brain somehashtagnamehere
+    $ python brain.py somehashtagnamehere
 
 And the app will print out the hashtag.
 
