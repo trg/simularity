@@ -63,6 +63,16 @@ To train the brain, run `python trainer.py`.  This will hit the twitter sample
 real time stream and begin inserting lists of hashtags into the brain.
 
 
+Terminal Usage
+======
+
+Right now there's no web service API, so to view the most "similar" hastag
+based on the consumed twitter data, run:
+
+    $ python brain somehashtagnamehere
+
+And the app will print out the hashtag.
+
 Test Suite
 ======
 

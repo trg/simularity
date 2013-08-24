@@ -78,7 +78,7 @@ class Brain:
 if __name__ == "__main__":
     b = Brain()
     hashtag = sys.argv[1]
-    print(b.db[hashtag])
+    #print(b.db[hashtag])
     print(b.most_popular_hashtag_for_hashtag(hashtag))
 
 
